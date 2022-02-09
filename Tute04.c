@@ -17,3 +17,9 @@ int main() {
    printf("%d ", multiply(no1, no2));
    return 0;
 }
+
+
+
+int min(n1 ,n2);
+int max(n1 ,n2);
+intmult(n1,n2);
